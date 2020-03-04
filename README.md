@@ -12,7 +12,7 @@ The script contains several parameters:
 * <b>deviceName</b> - Name of the device to search for when using the "device" option.  Wildcards * are supported
 * <b>collectionName</b> - Name of the collection to use for the "collection" and "collectionScheduleStart" options
 * <b>severity</b> - Level of message severity to return (all, error, information, warning)
-* <b>viewingPeriod<b> - Date and time that you want to see messages from
+* <b>viewingPeriod</b> - Date and time that you want to see messages from
 * <b>ruleId</b> - Number of the rule that you wish to view or invoke in the "updateRule" or "updateStart" options
 * <b>option</b> - Options for the script (collectionScheduleStart,collection,device,messages,updateRule,updateStart)
 
